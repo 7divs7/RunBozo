@@ -13,7 +13,7 @@ $ git clone https://github.com/7divs7/RunBozo.git
 Install the game and Play!
 
 ## Output
-![Alt Text]
+![Alt Text](https://github.com/7divs7/RunBozo/blob/master/bozo.gif)
 
 ## Author
 [![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Profile-teal.svg)](https://www.linkedin.com/in/divyani-panda-5a8345194/)
